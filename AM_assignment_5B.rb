@@ -6,8 +6,8 @@
 #
 # Purpose:       The purpose of this program is 
 #                to calculate sale and discount percentages 
-# Author:        Ausaf M
-# Course:        231CIS109.950  
+# Author:        Ausaf Mohiuddin
+#   
 # Created:       09/26/22
 #  
 #------------------------------------------------------------------------------  
